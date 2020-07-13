@@ -1,0 +1,28 @@
+{
+  "name": "word-counter-api",
+  "version": "1.0.0",
+  "description": "Word counting API w/CLI",
+  "main": "counter.js",
+  "typings": "counter.d.ts",
+  "bin": {
+    "count": "cli.js"
+  },
+  "repository": "hiimjustin000/word-counter-api",
+  "keywords": [
+    "word",
+    "words",
+    "word-counter",
+    "wordcounter",
+    "cli",
+    "counter",
+    "count",
+    "word-counting",
+    "word-counter-api",
+    "word-counter-cli"
+  ],
+  "author": "Justin Pridgen",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.0.22"
+  }
+}
