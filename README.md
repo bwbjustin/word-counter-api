@@ -1,4 +1,4 @@
-[Github](https://github.com/hiimjustin000/word-counter-api) | **NPM**
+**Github** | [NPM](https://www.npmjs.com/package/word-counter-api)
 
 ![NPM Version](https://img.shields.io/npm/v/word-counter-api.svg?maxAge=3600) ![NPM Downloads](https://img.shields.io/npm/dt/word-counter-api.svg?maxAge=3600)
 
